@@ -1,0 +1,30 @@
+
+Date: 2025-01-10 00:57:06.789185
+Email: no@no.com
+Subject: This now works
+Message: yes works
+
+Date: 2025-01-10 00:58:13.950747
+Email: no@no.com
+Subject: This now works
+Message: yes works
+
+Date: 2025-01-10 01:10:44.046418
+Email: no@no.com
+Subject: This now works
+Message: dsadsdsdsad
+
+Date: 2025-01-10 01:12:33.505154
+Email: no@no.com
+Subject: This now works
+Message: xascxcxc
+
+Date: 2025-01-10 01:14:41.637289
+Email: no@no.com
+Subject: This now works
+Message: xascxcxc
+
+Date: 2025-01-10 01:16:29.391583
+Email: no@no.com
+Subject: This now works
+Message: xascxcxc
